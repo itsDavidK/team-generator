@@ -1,0 +1,29 @@
+
+body {
+    background-color: #36393e;
+    color: white;
+    margin: 0.5%;
+}
+
+.team-heading {
+background-color: #7289da;
+}
+
+.card {
+box-shadow: 5px 0 5px rgba(34, 33, 33, 0.699);
+background-color: 	#1e2124;
+
+}
+
+.card-header {
+    background-color: rgb(104, 206, 112);
+}
+
+.card-body {
+    color: black;
+}
+
+.employee-card {
+    margin: 20px;
+    width: fit-content;
+}
